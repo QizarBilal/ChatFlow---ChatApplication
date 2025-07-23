@@ -1,4 +1,6 @@
-# 💬 ChatFlow - Professional Real-Time Chat Application
+Designed and Owned by "Mohammed Qizar Bilal"
+ 
+ 💬 ChatFlow - Professional Real-Time Chat Application
 
 **ChatFlow** is a modern, professional real-time chat application built with React.js, Node.js, and Socket.io. It features secure messaging, user authentication, and an intelligent chatbot assistant.
 
@@ -196,9 +198,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+**Mohammed Qizar Bilal**
+- GitHub: [@yourusername](https://github.com/QizarBilal)
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/mohammed-qizar-bilal)
 
 ## 🙏 Acknowledgments
 
@@ -210,4 +212,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ Star this repository if you found it helpful!**
 
-*Built with ❤️ and modern web technologies*
+*Built by Mohammed Qizar Bilal with ❤️ and modern web technologies*
