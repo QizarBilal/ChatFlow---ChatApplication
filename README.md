@@ -199,8 +199,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Mohammed Qizar Bilal**
-- GitHub: [@yourusername](https://github.com/QizarBilal)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/mohammed-qizar-bilal)
+- GitHub: [QizarBilal](https://github.com/QizarBilal)
+- LinkedIn: [Mohammed Qizar Bilal](https://linkedin.com/in/mohammed-qizar-bilal)
 
 ## 🙏 Acknowledgments
 
